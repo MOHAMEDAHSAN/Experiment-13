@@ -1,5 +1,6 @@
 
-
+### Name : S Mohamed Ahsan
+### Reg No : 212223240089
 # **Experiment-13** :  **Pytest – Python program for Sum of Digits**
 
 
@@ -61,6 +62,8 @@ def test_sum_of_digits():
 ---
 
 ## **Output:**
+
+<img width="1040" height="297" alt="image" src="https://github.com/user-attachments/assets/05619e8c-5a9a-44c5-8702-d7c2b2610869" />
 
 ## **Result:**
 
